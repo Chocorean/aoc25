@@ -16,7 +16,7 @@ do
         cargo new "${dir}"
         curl "https://adventofcode.com/2025/day/${i}/input" -o input.txt --cookie session="${AOC_SECRET}"
         mv input.txt "${dir}/"
-        cp templates.rs "${dir}/src/main.rs"
+        cp template.rs "${dir}/src/main.rs"
         break
     fi
 done
