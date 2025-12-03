@@ -17,6 +17,7 @@ do
         curl "https://adventofcode.com/2025/day/${i}/input" -o input.txt --cookie session="${AOC_SECRET}"
         mv input.txt "${dir}/"
         cp template.rs "${dir}/src/main.rs"
+        touch "${dir}/example.txt"
         break
     fi
 done
