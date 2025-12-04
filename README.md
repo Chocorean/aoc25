@@ -17,3 +17,7 @@ Here is a small peak at my ~~brain~~ notes for part 2:
 While this look like gargabe, it was actually super helpful to put my "thoughts" on paper so I could nail down the proper filters in [`highest12`](day03/src/main.rs#L47-48).
 
 It feels nice to have a very fast solution, as opposed to yesterday hehehe.
+
+## Day 4
+
+Garbage code today, happens.
