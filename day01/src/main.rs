@@ -1,5 +1,3 @@
-use std::io::Read;
-
 fn main() {
     let input = include_str!("../input.txt");
     println!("{}", task1(&input));
