@@ -21,3 +21,9 @@ It feels nice to have a very fast solution, as opposed to yesterday hehehe.
 ## Day 4
 
 Garbage code today, happens.
+
+## Day 6
+
+Lost a bit of time on a silly idea, nevermind! Reading by columns was easier than I thought it would be.
+
+Also, completely missed the star wars reference.
